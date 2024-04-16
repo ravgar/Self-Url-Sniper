@@ -1,0 +1,20 @@
+{
+    "name": "sniper_ravgar",
+    "version": "1.0.0",
+    "description": "sniper_ravgar",
+    "main": "Sniper.js",
+    "scripts": {
+        "start": "node Sniper.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/rest": "^2.2.0",
+        "axios": "^1.6.8",
+        "discord.js": "^14.0.3",
+        "discord.js-selfbot": "^12.0.2",
+        "discord.js-selfbot-v13": "^3.1.4",
+        "node-cron": "^3.0.3",
+        "request": "^2.88.2"
+    }
+}
